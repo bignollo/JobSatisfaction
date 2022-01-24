@@ -27,3 +27,8 @@ Based on the data available and our analysis we can conclude:
 We need to keep in mind that the quality of the data can not be guarantee due to the nature of the survey, more official sources would be great in order to have more precise insights.
 
 More details on the analysis can be found on: [Blog Post on Medium](https://medium.com/@bignollo/understanding-job-satisfaction-across-countries-and-genders-eb05a3c2d8f5)
+
+## Licensing, Authors, Acknowledgements
+
+Source data is available on [link to Kaggle competition](https://www.kaggle.com/stackoverflow/so-survey-2017/data), om there you can get more details about the data, licensing, and more code examples.
+Jupyter notebook's code is free to use, just keep in mind that this is work in progress and may not work.
